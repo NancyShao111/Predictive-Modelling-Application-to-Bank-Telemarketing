@@ -16,8 +16,8 @@ There are four parts in this project:
   
    Splitted the data into training & test sets, run different predictive regression models, analyzed the questions of overfitting & underfitting
    
- 3. Improving the Predictive Power
+3. Improving the Predictive Power
 
   Plotted the correlation between target variables and independent variables, used other predictive methods (KNN & NB classifiers) to see if the model performance    increases. 
    
- 4. Casualty analysis & interpretation
+4. Casualty analysis & interpretation
